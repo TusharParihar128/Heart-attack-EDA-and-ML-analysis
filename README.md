@@ -92,8 +92,7 @@ Heart-attack-EDA-and-ML-analysis/
 ```
 
 ---
-
 ## 👤 Author
 **Tushar Parihar**
 - GitHub: [@TusharParihar128](https://github.com/TusharParihar128)
-- Email: parihartushar128@gmail.com
+- 🎓 This project was completed as part of my Data Analysis Capstone Project at **Simplilearn Platform**
